@@ -32,7 +32,7 @@ const Hero = () => {
                             Explore Our Work <ArrowRight className="w-4 h-4" />
                         </button>
                         <button className="px-8 py-3 rounded-full border border-white/20 hover:bg-white/5 transition-colors font-semibold">
-                            Watch Demo <ArrowRight className="w-4 h-4" />
+                            Watch Demo
                         </button>
                     </div>
                 </motion.div>
